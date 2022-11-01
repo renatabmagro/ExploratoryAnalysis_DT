@@ -7,9 +7,13 @@
 
 
 > As etapas principais da modelagem são:
+
 > > Leitura e organização dos dados.
+
 > > Construção do modelo de árvore de decisão.
 
 > Foram construídos modelos com os seguintes objetivos:
+
 > > Avaliação produtividade da safra n (Gala e Fuji)
+
 > > Avaliação produtividade da safra n+1 (Gala e Fuji
