@@ -3,7 +3,7 @@
 - Neste script estão descritos os procedimentos de construção dos modelos de árvore de decisão; 
 - Os modelos de árvore de decisão correspondem a Etapa II da análise exploratória dos dados meteorológicos (mensais e sazonais) com relação à produtividade de macieiras.
 - Foram avaliadas as variáveis meteorológicas para a safra atual (n) e para a safra seguinte (n+1).
-- Os dados estão em planilhas do excel -> localizados em: C:\Dados_Renata\R\Dados_modelagem_ingles
+- Os dados estão em planilhas do excel -> localizados em: C:\Users\Luciano-PC2\Desktop\Renata_2022\03. Rstudio\Dados\Dados_modelagem_ingles
 
 
 > As etapas principais da modelagem são:
